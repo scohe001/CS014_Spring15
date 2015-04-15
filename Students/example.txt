@@ -1,2 +1,0 @@
-Sally Sample
-github.com/ssamp001/MySI.git
